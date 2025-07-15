@@ -2,7 +2,8 @@
 by Cai Guo, Yuxi Jin, Bishenghui Tao, Jianzhong Li, [Hong-Ning Dai](https://www.henrylab.net), [Ping Li](https://www.comp.polyu.edu.hk/~pinli).
 
 Pytorch Implementation for the paper "ZAP-2.5DSAM: Zero Additional Parameters Advancing 2.5D SAM Adaptation to 3D Tumor Segmentation"
-![Pipeline of LNNet](./docs/ZAP-2.5DSAM.png)
+
+![Pipeline of ZAP-2.5DSAM](./docs/ZAP-2.5DSAM.png)
 
 ### Comparision with SOTA methods
 ![Pipeline of Results1](./docs/Results1.png)
