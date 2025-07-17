@@ -47,9 +47,9 @@ Our code is based on [[Segment-Anything]](https://github.com/facebookresearch/se
 If you think this work is useful for your research, please cite the following paper.
 
 ```
-@article{guo2025zap-2.5dsam,
-  title={ZAP-2.5DSAM: Zero Additional Parameters Advancing 2.5D SAM Adaptation to 3D Tumor Segmentation,
-  author={Guo, Cai and Jin, Yuxi and Tao, Bishenghui and Li, Jianzhong and Dai, Hong-Ning and and Li, Ping},
+@article{guo2025zap,
+  title={ZAP-2.5 DSAM: zero additional parameters advancing 2.5 D SAM adaptation to 3D tumor segmentation},
+  author={Guo, Cai and Jin, Yuxi and Tao, Bishenghui and Li, Jianzhong and Dai, Hong-Ning and Li, Ping},
   journal={The Visual Computer},
   pages={1--11},
   year={2025},
